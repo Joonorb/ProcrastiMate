@@ -1,5 +1,5 @@
-# ProcrastiMate
-ProcrastiMate is a desktop application designed to help users manage procrastination and foster productive habits by controlling computer access based on a user’s daily routine. The application integrates a customizable scheduler and blocker system that ensures users remain focused on their tasks.
+# WorkMate
+WorkMate is a desktop application designed to help users manage procrastination and foster productive habits by controlling computer access based on a user’s daily routine. The application integrates a customizable scheduler and blocker system that ensures users remain focused on their tasks.
 
 Features
 Routine Scheduling: Create and manage daily routines with specific tasks and schedules.
